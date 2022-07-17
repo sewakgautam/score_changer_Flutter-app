@@ -58,7 +58,7 @@ class _ScoreHomeState extends State<ScoreHome> {
       body: Column(children: [
         SizedBox(
           height: 50,
-        ),
+        ), //
         Center(
           child: Text(
             "Score is",
